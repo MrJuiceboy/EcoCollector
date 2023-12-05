@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ecocollector",
+  "name": "EcoCollector",
+  "description": "Soon",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Warden"],
+  "credits": "The Forge and FML guys, for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
